@@ -1,6 +1,8 @@
-# Projeto LocalStack com docker-compose
+# Projeto Docker Hub Compose
 
-Este projeto utiliza o LocalStack para simular serviços AWS localmente, como o S3. Abaixo estão as instruções para clonar, configurar e executar o projeto localmente.
+Este repositório organiza ou agrupa vários serviços hospedados no docker por meio do docker-compose, como localstack para simular serviços AWS localmente, como o S3; o elasticsearch ver os logs de uma aplicação no elastic/kibana, entre outros. Abaixo estão as instruções para clonar, configurar e executar os serviços localmente.
+
+Observação: Lembrando que estes serviços rodam separadamente do seu projeto, apenas coloque no seu projeto as urls e credenciais necessárias para acessar cada serviço do hub.
 
 ## Pré-requisitos
 
