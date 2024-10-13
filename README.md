@@ -51,4 +51,5 @@ docker-compose -f localstack/docker-compose.yml -f elasticsearch/docker-compose.
 Coloque este código no seu arquivo appSetting
 
 ```bash
-Server=localhost,1433;Database=master;User Id=SA;Password=123456```
+Server=localhost,1433;Database=master;User Id=SA;Password=123456
+```
